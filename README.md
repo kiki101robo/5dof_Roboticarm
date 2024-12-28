@@ -2,3 +2,6 @@
 
 
 https://www.youtube.com/watch?v=YLIJJKiUYSg
+
+
+![Trajectory](https://github.com/user-attachments/assets/431bec94-2d34-451d-8697-44c7abaec11c)
