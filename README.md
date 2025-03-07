@@ -1,3 +1,28 @@
+# 5 DOF Robotic Arm for Precision Pick-and-Place
+
+## Project Overview
+This project develops a 5 Degree of Freedom (DOF) Robotic Arm engineered for high precision in pick-and-place tasks, ideal for applications ranging from manufacturing to research labs. The arm features advanced control systems and can handle objects with care, accuracy, and efficiency.
+
+## Key Features
+- **Sophisticated Design**: Compact yet robust, capable of intricate movements and precise positioning.
+- **Wide Application Range**: Suitable for manufacturing, logistics, healthcare, education, and more.
+- **High Precision**: Engineered for tasks requiring meticulous detail, such as assembly and sorting.
+- **Customizable and Programmable**: Supports various attachments and can be tailored for specific tasks.
+
+## Applications
+The robotic arm enhances operational efficiency across multiple sectors:
+- **Manufacturing and Assembly**
+- **Logistics and Warehousing**
+- **Healthcare and Laboratory Applications**
+- **Education and Research**
+- **Food and Beverage Processing**
+
+## Technical Specifications
+- **Robot Type**: Stationary manipulator robot.
+- **Degrees of Freedom**: 5
+- **Control System**: Programmable for various industrial processes.
+- **Integration**: Compatible with a range of sensors and control systems.
+
 [annotated-kiki1_mammadli_group34_project2_report.pdf](https://github.com/user-attachments/files/18267552/annotated-kiki1_mammadli_group34_project2_report.pdf)
 
 
